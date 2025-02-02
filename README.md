@@ -1,6 +1,6 @@
 # CloudMart
 
-CloudMart is an e-commerce platform created using AWS, Docker, Kubernetes, CI/CD, and AI technologies.
+CloudMart is an e-commerce platform created using AWS, Docker, Kubernetes, CI/CD, and AI technologies (AWS Bedrock, OpenAI, Claude).
 
 &copy; The Cloud BootCamp - github: [https://github.com/tcbteaching3/cloudmart](https://github.com/tcbteaching3/cloudmart)
 
