@@ -90,7 +90,8 @@ const CloudMartMainPage = () => {
       <Header />
       <main className="container mx-auto py-8 flex-grow px-4">
         <div className="flex justify-between items-center mb-6">
-          <h2 className="text-2xl font-bold">Featured Products</h2>
+          <h2 className="text-2xl font-bold">Featured Products by Cloudmart</h2>
+          <p style='font-size:16px;'>&#9836; by <em>Juclops</em></p>
           <div className="relative">
             <input
               type="text"
